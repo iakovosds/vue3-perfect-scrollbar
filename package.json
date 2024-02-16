@@ -36,7 +36,7 @@
     "@vue/compiler-sfc": "^3.0.2",
     "@vue/test-utils": "^2.0.0-beta.7",
     "babel-loader": "^8.0.2",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.10.0",
     "eslint": "^7.12.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
@@ -46,7 +46,6 @@
     "eslint-plugin-vue": "^7.1.0",
     "eslint-webpack-plugin": "^2.1.0",
     "jest": "^26.6.1",
-    "node-sass": "^4.14.1",
     "postcss": "^8.4.35",
     "postcss-cli": "^8.1.0",
     "rollup": "^0.65.2",
@@ -54,6 +53,7 @@
     "rollup-plugin-commonjs": "^9.1.6",
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-uglify": "^5.0.2",
+    "sass": "^1.71.0",
     "sass-loader": "^10.0.4",
     "style-loader": "^0.23.0",
     "ts-loader": "^8.0.7",
@@ -62,9 +62,9 @@
     "vue-jest": "^5.0.0-alpha.5",
     "vue-loader": "^16.0.0-beta.8",
     "vue-style-loader": "^4.1.2",
-    "webpack": "^4.17.2",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.7"
+    "webpack": "^5.90.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.2"
   },
   "dependencies": {
     "cssnano": "^5.1.14",
